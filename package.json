@@ -38,9 +38,9 @@
   "devDependencies": {
     "@smartive/tslint-config": "^4.0.0",
     "@types/jest": "^23.1.4",
-    "@types/lodash-es": "^4.17.0",
+
     "@types/mock-fs": "^3.6.30",
-    
+
 
     "jest": "^23.3.0",
     "mock-fs": "^4.5.0",
@@ -51,6 +51,7 @@
     "typedoc": "^0.11.1"
   },
   "dependencies": {
+    "@types/lodash-es": "^4.17.0",
     "@types/node": "^10.5.1",
     "lodash": "^4.17.10",
     "lodash-es": "^4.17.10",
